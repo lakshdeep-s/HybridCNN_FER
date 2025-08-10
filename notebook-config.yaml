@@ -1,0 +1,7 @@
+paths:
+  aff_sample_train_path: "../emotion_datasets/AffectNet-Sample/train/images"
+  aff_sample_test_path: "../emotion_datasets/AffectNet-Sample/test/images"
+  aff_sample_valid_path: "../emotion_datasets/AffectNet-Sample/valid/images"
+
+  aff_sample_train_label_path: "../emotion_datasets/AffectNet-Sample/train/labels"
+  aff_sample_valid_label_path: "../emotion_datasets/AffectNet-Sample/valid/labels"
